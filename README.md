@@ -294,3 +294,10 @@ This week showed how much information can be collected without attacking a syste
 `whois`, `whatweb`, `nslookup`, `curl`, `wafw00f`, `dnsrecon`, Maltego 4.14.0, theHarvester 4.11.1, Zenmap / Nmap, `ipconfig`.
 
 *Educational use only. Do not test any system without written permission.*
+
+## 11. LinkedIn post
+
+A short video demonstration of the Zenmap ping scan (W2-PM5), shared as part of the Week 2 assignment:
+
+🔗 [View my LinkedIn post](https://lnkd.in/p/dzFjgMfH)
+
